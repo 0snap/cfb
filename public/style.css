@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ 
+html, body {
+    height: 100%;
+	background-image: url("images/background.gif");
+	background-color: #cccccc;
+}
+ 
+#fussbereich {
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+}
